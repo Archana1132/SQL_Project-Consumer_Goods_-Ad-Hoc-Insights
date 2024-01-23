@@ -1,1 +1,1 @@
-# SQL_Project-Consumer_Goods_-Ad-Hoc-Insights
+# SQL_Project: Consumer-Goods-Ad-Hoc-Insights
